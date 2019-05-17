@@ -1,2 +1,1 @@
-# tcc8
-test
+# Praktikum TCC
